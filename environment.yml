@@ -1,0 +1,14 @@
+name: mp
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pymeep
+  - pip
+  - pip:
+    - nlopt
+    - matplotlib
+    - autograd
+    - jax
