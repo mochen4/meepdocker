@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python
   - nbgitpuller
+  - ffmpeg
   - numpy
   - scipy
   - pymeep
