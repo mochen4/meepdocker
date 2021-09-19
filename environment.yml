@@ -3,6 +3,8 @@ channels:
   - conda-forge
 dependencies:
   - python
+  - nbgitpuller
+  - ffmpeg
   - numpy
   - scipy
   - pymeep
